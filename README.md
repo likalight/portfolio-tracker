@@ -168,5 +168,3 @@ Enjoy using **Portfolio Tracker**! 🚀
    ```
 
 ---
-
-This is now ready for **GitHub**! Let me know if you need any further help.
